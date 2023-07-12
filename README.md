@@ -16,7 +16,7 @@ You may also see any lint errors in the console.
 
 ### `npm run server`
 
-Runs the json server in order to load the questions. \
+Runs the json-server in order to load the questions which are stored in json file locally. 
 
 ### `npm test`
 
